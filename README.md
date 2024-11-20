@@ -48,6 +48,12 @@ Bienvenue dans le dépôt **Kyff**, un projet éducatif conçu spécialement pou
 2. **Configurer la base de données :**
    - Importez le fichier `database.sql` dans votre serveur MySQL.
    - Configurez les informations de connexion dans le fichier `.env`.
+## **Utilisation**
+
+- **Inscription :** Créez un compte utilisateur pour commencer à interagir.
+- **Publication :** Partagez vos pensées, commentez et aimez les publications des autres.
+- **Profil :** Personnalisez votre profil et suivez vos amis.
+
 
 3. **Installer les dépendances :**
    ```bash
@@ -60,11 +66,3 @@ Bienvenue dans le dépôt **Kyff**, un projet éducatif conçu spécialement pou
 ## **Licence**
 
 Ce projet est sous licence [MIT](LICENSE). Vous êtes libre de l'utiliser, de le modifier et de le redistribuer, tant que vous respectez les termes de la licence.
-
-## **Contact**
-
-Pour toute question ou suggestion, veuillez ouvrir une **issue** sur ce dépôt ou contacter [votre nom](mailto:votre.email@example.com).
-
----
-
-Ce README est à jour pour le projet **Kyff**. La courte description est maintenant adaptée pour figurer sur GitHub. 😊
