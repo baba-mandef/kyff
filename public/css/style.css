@@ -1,0 +1,45 @@
+/*
+Kyff 
+blue : #2d8cff
+orange : #f26d21
+base : #a3b7ca
+gray : #F9F9F9
+*/
+
+.navbar{
+    ul {
+        list-style-type: none;
+       
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        border: 1px solid #2d8cff;
+        border-radius: 5px;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: #2d8cff;
+        text-align: center;
+        margin: 10px;
+        text-decoration: underline;
+      }
+
+      li a img{
+       
+        height: 20px;
+       
+ 
+      }
+      
+    
+}
+.main{
+    width: 600px;
+    margin: auto;
+    margin-top: 20px;
+}
